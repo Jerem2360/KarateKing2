@@ -7,5 +7,6 @@ They can also be installed by running requirements.bat, passing it the pip insta
 e.g. :
 
 `requirements.bat pip`  would run `pip install ...`
+
 `requirements.bat python -m pip` would run `python -m pip install ...`
 
